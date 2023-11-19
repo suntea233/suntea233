@@ -20,7 +20,7 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 
 
 
-### 📊 Statistics
+### 📊 Vistor Statistics
 
 <img src="https://count.getloli.com/get/@suntea233.github.readme?theme=gelbooru" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 
