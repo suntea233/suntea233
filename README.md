@@ -19,11 +19,18 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 - 🏛️ *[Yunnan University](https://www.ynu.edu.cn/), Kunming, China*
 
 
+
 ### 📊 Statistics
+
 <img src="https://count.getloli.com/get/@suntea233.github.readme?theme=gelbooru" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 
 
+#### 🌺 Day
 
+```text
+摸鱼   🕓 168h0m ██████████████████████████ 100.0%
+干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+```
 
 
 
