@@ -1,6 +1,6 @@
 ### 👋 Profile
 
-I'm Luo Xiang, a post-graduate student in school of information & engineering, Yunnan University.
+*I'm Luo Xiang, a post-graduate student in school of information & engineering, Yunnan University.*
 
 - 🔭 I’m currently working on Natural Language Processing, especially Task-Oriented Dialogue and Multimodal.
 - 🌱 I’m currently learning Dialogue State Tracking (DST).
