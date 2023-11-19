@@ -10,13 +10,13 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 
 ### 🎓 Education
 
-#### [🎓 Bachelor's Degree]
+#### 🎓 Bachelor's Degree
 - 📅 **Graduated:** 2022
-- 🏛️ South-Central University for Nationalities(https://www.scuec.edu.cn/), Wuhan, China
+- 🏛️ [South-Central University for Nationalities](https://www.scuec.edu.cn/), Wuhan, China
 - 
-#### [🎓 Master's Degree]
+#### 🎓 Master's Degree
 - 📅 **Expected Graduation:** 2025
-- 🏛️ Yunnan University(https://www.ynu.edu.cn/), Kunming, China
+- 🏛️ [Yunnan University](https://www.ynu.edu.cn/), Kunming, China
 
 
 
