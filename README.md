@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Profile
 
 I'm Luo Xiang, a post-graduate student in school of information & engineering, Yunnan University.
 
