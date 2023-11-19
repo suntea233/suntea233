@@ -7,16 +7,17 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 - 📫 How to reach me: luoxiang@mail.ynu.edu.cn
 - ⚡ Fun fact: [Interesting Fact about Yourself]
 
-  
+
 ### 🎓 Education
 
-#### [Master's Degree in Your Field]
+#### [🎓 Master's Degree](https://www.yunnanuniversity.com/)
 - 📅 **Expected Graduation:** 2025
 - 🏛️ [Yunnan University], Kunming, China
 
-#### [Bachelor's Degree in Your Field]
+#### [🎓 Bachelor's Degree](https://www.scuec.edu.cn/)
 - 📅 **Graduated:** 2022
 - 🏛️ [South-Central University for Nationalities], Wuhan, China
+
 
 
 
