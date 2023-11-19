@@ -39,7 +39,7 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=suntea233&theme=ambient_gradient&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suntea233&theme=ambient_gradient&langs_count=6 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suntea233&theme=ambient_gradient&langs_count=6" />
 </div>
 
 
