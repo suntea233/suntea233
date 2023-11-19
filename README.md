@@ -21,7 +21,7 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 
 ### 📊 Statistics
 
-- Personal Website Visitors: ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+- Personal Website Visitors: ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=suntea233.visitor-badge)
 
 
 
