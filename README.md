@@ -5,7 +5,7 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 - 🔭 I’m currently working on Natural Language Processing, especially Task-Oriented Dialogue and Multimodal.
 - 🌱 I’m currently learning Dialogue State Tracking (DST).
 - 📫 How to reach me: luoxiang@mail.ynu.edu.cn
-- ⚡ Fun fact: [Interesting Fact about Yourself]
+
 
 
 ### 🎓 Education
