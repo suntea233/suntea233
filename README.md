@@ -12,7 +12,7 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 
 #### 🎓 Bachelor's Degree
 - 📅 **Graduated:** 2022
-- 🏛️ *[South-Central University for Nationalities](https://www.scuec.edu.cn/)*, Wuhan, China
+- 🏛️ *[South-Central University for Nationalities](https://www.scuec.edu.cn/), Wuhan, China*
   
 #### 🎓 Master's Degree
 - 📅 **Expected Graduation:** 2025
