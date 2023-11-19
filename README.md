@@ -10,13 +10,14 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 🎓 **Education:**
 - [Bachelor], [2018-2022]
   - [South-Central University for Nationalities], [Wuhan, China]
- - [Master], [2022-2025]
+- [Master], [2022-2025]
   - [Yunnan University], [Kunming, China] 
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suntea233&show_icons=true&theme=ambient_gradient)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suntea233)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **your-username/your-username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
