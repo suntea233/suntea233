@@ -9,7 +9,10 @@
 
 
 ### 🎓 Education
-
+#### 🎓 High School Diploma
+- 📅 **Graduated:** 2018
+- 🏛️ *[Zhuzhou No. 2 Middle School](https://zz2z.com/), Zhuzhou, China*
+  
 #### 🎓 Bachelor's Degree
 - 📅 **Graduated:** 2022
 - 🏛️ *[South-Central University for Nationalities](https://www.scuec.edu.cn/), Wuhan, China*
