@@ -35,10 +35,7 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 
 ### 💻 My Coding Project And Language
 
-<div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=suntea233&theme=ambient_gradient&show_icons=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suntea233&theme=ambient_gradient&langs_count=6&layout=compact" />
-</div>
+
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=codeacg&theme=calm&show_icons=true" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeacg&theme=calm&langs_count=6&layout=compact" />
