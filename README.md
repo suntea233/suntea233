@@ -7,11 +7,17 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 - 📫 How to reach me: luoxiang@mail.ynu.edu.cn
 - ⚡ Fun fact: [Interesting Fact about Yourself]
 
-🎓 **Education:**
-- [Bachelor], [2018-2022]
-  - [South-Central University for Nationalities], [Wuhan, China]
-- [Master], [2022-2025]
-  - [Yunnan University], [Kunming, China] 
+  
+### 🎓 Education
+
+#### [Master's Degree in Your Field]
+- 📅 **Expected Graduation:** 2025
+- 🏛️ [Yunnan University], Kunming, China
+
+#### [Bachelor's Degree in Your Field]
+- 📅 **Graduated:** 2022
+- 🏛️ [South-Central University for Nationalities], Wuhan, China
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suntea233&show_icons=true&theme=ambient_gradient)
