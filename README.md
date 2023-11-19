@@ -33,10 +33,14 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 ```
 
 
+### 💻 My Coding Project And Language
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suntea233&show_icons=true&theme=ambient_gradient)
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=suntea233&theme=ambient_gradient&show_icons=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suntea233&theme=ambient_gradient&langs_count=6&layout=compact" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suntea233)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **your-username/your-username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
