@@ -25,7 +25,7 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 <img src="https://count.getloli.com/get/@suntea233.github.readme?theme=gelbooru" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 
 
-#### 🌺 Day
+### 🌺 Day
 
 ```text
 摸鱼   🕓 168h0m ██████████████████████████ 100.0%
