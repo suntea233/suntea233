@@ -20,6 +20,7 @@ I'm Luo Xiang, a post-graduate student in school of information & engineering, Y
 
 
 ### 📊 Statistics
+- [![:name](https://count.getloli.com/get/@:suntea233)](https://count.getloli.com/get/@suntea233?theme=gelbooru)
 
 - Personal Website Visitors: ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=suntea233.visitor-badge)
 
